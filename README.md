@@ -1,2 +1,90 @@
 # PrivacyPolicy
 Privacy policy of dino APp
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Privacy Policy - Dino3DAR</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>Privacy Policy of Dino3DAR</h1>
+    </header>
+    <main>
+      <section>
+        <h2>1. Information We Collect</h2>
+        <h3>1.1 Personal Information:</h3>
+        <p>Name and email address: Collected when you register in the app or subscribe to our newsletter.</p>
+        <p>Contact details: Collected for customer support and communications.</p>
+        <h3>1.2 Non-Personal Information:</h3>
+        <p>Usage data: Information on how you interact with the app, such as pages visited and features used.</p>
+        <p>Technical data: Device type, operating system, unique device identifiers, and information about the mobile network.</p>
+        <h3>1.3 Children's Information:</h3>
+        <p>We do not knowingly collect personal information from children under 13 without parental consent. If we discover that we have collected information from a child under 13 without parental consent, we will delete such information from our servers.</p>
+      </section>
+
+      <section>
+        <h2>2. How We Use Your Information</h2>
+        <h3>2.1 To Provide and Improve Our Services:</h3>
+        <ul>
+          <li>Personalize your experience with the app.</li>
+          <li>Improve the functionality and performance of the app.</li>
+        </ul>
+        <h3>2.2 Communications:</h3>
+        <ul>
+          <li>Respond to your inquiries and requests.</li>
+          <li>Send updates and news about the app.</li>
+        </ul>
+      </section>
+
+      <section>
+        <h2>3. Sharing Your Information</h2>
+        <p>We do not share your personal information with third parties, except in the following circumstances:</p>
+        <ul>
+          <li>With service providers who help us operate the app (e.g., hosting and analytics providers).</li>
+          <li>When required by law or to protect our legal rights.</li>
+        </ul>
+      </section>
+
+      <section>
+        <h2>4. Security of Your Information</h2>
+        <p>We implement reasonable security measures to protect your personal information against unauthorized access, alteration, disclosure, or destruction. However, no data transmission over the Internet or storage system is completely secure, so we cannot guarantee the absolute security of your information.</p>
+      </section>
+
+      <section>
+        <h2>5. Your Rights</h2>
+        <p>You have the right to:</p>
+        <ul>
+          <li>Access and update your personal information.</li>
+          <li>Request the deletion of your personal information.</li>
+          <li>Opt-out of receiving marketing communications.</li>
+        </ul>
+        <p>To exercise these rights, please contact us at <a href="mailto:chema@chemaktrade.com">chema@chemaktrade.com</a>.</p>
+      </section>
+
+      <section>
+        <h2>6. Changes to This Privacy Policy</h2>
+        <p>We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page. We recommend that you review this policy periodically to stay informed about how we protect your information.</p>
+      </section>
+
+      <section>
+        <h2>7. Contact</h2>
+        <p>If you have any questions about this Privacy Policy, please contact us at:</p>
+        <address>
+          Dino3DAR<br>
+          CHEMAKTRADE<br>
+          <a href="mailto:chema@chemaktrade.com">chema@chemaktrade.com</a>
+        </address>
+      </section>
+
+      <section>
+        <h2>8. Parental Consent</h2>
+        <p>For users under 13 years old, Dino3DAR requires parental or guardian consent for the collection and use of the child's personal information. If you are a parent or guardian and have questions about our privacy policy or how we handle your child's personal information, please contact us at <a href="mailto:chema@chemaktrade.com">chema@chemaktrade.com</a>.</p>
+      </section>
+    </main>
+  </div>
+</body>
+</html>
